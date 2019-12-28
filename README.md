@@ -44,12 +44,12 @@ This script ouput the trained model and prediction result in the out_dir.
 python main_train.py -m model_type -pos_fa pos_fa -neg_fa neg_fa -od out_dir
 ```
 
-## 2. predict m6A-containing sequences
+## 2. predict 6mA-containing sequences
 
 The script main_test.py is used to predict if a given sequence contain m6A sites. The required arguments
 
 - model_type:  cnn-rnn
-- input_fa: a fasta file for test samples ( the length of sequences should be no more than 101bp)
+- input_fa: a fasta file for test samples ( the length of sequences should be no more than 41bp)
 - model_dir: the path of model directory
 - out_fn: output file 
 
