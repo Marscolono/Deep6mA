@@ -46,7 +46,7 @@ python main_train.py -m model_type -pos_fa pos_fa -neg_fa neg_fa -od out_dir
 
 ## 2. predict 6mA-containing sequences
 
-The script main_test.py is used to predict if a given sequence contain m6A sites. The required arguments
+The script main_test.py is used to predict if a given sequence contain 6mA sites. The required arguments
 
 - model_type:  cnn-rnn
 - input_fa: a fasta file for test samples ( the length of sequences should be no more than 41bp)
