@@ -1,5 +1,8 @@
 # Deep6mA
 
+Cite:
+Zutan Li, Hangjin Jiang, Lingpeng Kong, Yuanyuan Chen, Kun Lang, Xiaodan Fan, Liangyun Zhang* and Cong Pian*. Deep6mA: A deep learning framework for exploring similar patterns in DNA N6-methyladenine sites across different species. Plos Computational Biology. 2021, 17(2):e1008767.
+
 
 Deep6mA is a deep-learning-based framework to predict 6mA-containing sequences. 
 
@@ -61,8 +64,7 @@ python main_test.py -m model_type -in_fa input_fa -md model_dir -outfn out_fn
 ```
 
 
-Cite:
-Zutan Li, Hangjin Jiang, Lingpeng Kong, Yuanyuan Chen, Kun Lang, Xiaodan Fan, Liangyun Zhang* and Cong Pian*. Deep6mA: A deep learning framework for exploring similar patterns in DNA N6-methyladenine sites across different species. Plos Computational Biology. 2021, 17(2):e1008767.
+
 
 
 
