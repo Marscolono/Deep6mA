@@ -1,6 +1,7 @@
 # Deep6mA
 
-Cite:
+Paper is available at：
+
 Zutan Li, Hangjin Jiang, Lingpeng Kong, Yuanyuan Chen, Kun Lang, Xiaodan Fan, Liangyun Zhang* and Cong Pian*. Deep6mA: A deep learning framework for exploring similar patterns in DNA N6-methyladenine sites across different species. Plos Computational Biology. 2021, 17(2):e1008767.
 
 
